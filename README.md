@@ -5,7 +5,7 @@
 I'm Abhijeet Solanki, I'm a Biomedical engineer 👨‍💻 who is passionate about learning new stuff. I'm also a self proclaimed graphic designer and internet surfer 
 🏄‍♂️. 
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on Basic Python Projects
 - 🌱 I’m currently learning Python
 - 💬 Ask me about: tech, memes, anime
 -  ⚡ Languages: Pyhton
