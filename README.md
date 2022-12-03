@@ -1,16 +1,18 @@
-### Hi there 👋
+# Abhijeet Solanki  
+[![Gmail Badge](https://img.shields.io/badge/-2204.abhijeet11@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2204.abhijeet11@gmail.com)](mailto:2204.abhijeet11@gmail.com)
 
-<!--
-**abhijeetsolanki02/abhijeetsolanki02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, 
+I'm Abhijeet Solanki, I'm a Biomedical engineer 👨‍💻 who is passionate about learning new stuff. I'm also a self proclaimed graphic designer and internet surfer 
+🏄‍♂️. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on
+- 🌱 I’m currently learning Python
+- 💬 Ask me about: tech, memes, anime
+-  ⚡ Languages: Pyhton
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> El Psy Kongroo
+
+
+---
+⭐️ From [Abhijeet Solanki](https://github.com/abhijeetsolanki02)
